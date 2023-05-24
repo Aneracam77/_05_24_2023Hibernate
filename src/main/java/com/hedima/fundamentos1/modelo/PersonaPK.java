@@ -1,4 +1,4 @@
-package com.hedima.fundamentos1;
+package com.hedima.fundamentos1.modelo;
 
 
 import jakarta.persistence.Column;
